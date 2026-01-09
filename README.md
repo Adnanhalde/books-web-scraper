@@ -34,3 +34,13 @@ A Python-based web scraping project that extracts book details from the **BooksT
 1. Clone the repository:
 ```bash
 git clone https://github.com/Adnanhalde/books-web-scraper.git
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run the script:
+python scraper.py
+
+4. Output file:
+books_data.csv
+
